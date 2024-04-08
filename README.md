@@ -1,8 +1,3 @@
----
-layout: post
-# title: Tervetuloa!
----
-
 # As Oy Hämeen Linnan Portti #
 
 Tervetuloa kotisivuille
