@@ -1,13 +1,11 @@
-
-#theme: jekyll-theme-minimal
 #theme: jekyll-theme-architect
 #theme: jekyll-theme-cayman
-theme: jekyll-theme-Dinky
+#theme: jekyll-theme-Dinky
 #theme: jekyll-theme-Hacker
 #theme: jekyll-theme-Leap day
 #theme: jekyll-theme-Merlot
 #theme: jekyll-theme-Midnight
-#theme: jekyll-theme-Minima
+theme: jekyll-theme-Minima
 #theme: jekyll-theme-Minimal
 #theme: jekyll-theme-Modernist
 #theme: jekyll-theme-Slate
