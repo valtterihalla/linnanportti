@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tervetuloa!"
-# permalink: /
+permalink: /
 ---
 
 # As Oy Hämeen Linnan Portti
