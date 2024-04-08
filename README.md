@@ -8,4 +8,4 @@ title: "Tervetuloa!"
 
 Tervetuloa kotisivuille
 
-Näkyykö muutokset
+[Töyryn talon pitkä julkisivu](julkisivu,jpg)
