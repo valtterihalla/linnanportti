@@ -1,2 +1,3 @@
-# linnanportti
-As Oy Hämeen Linnan Portti kotisivut
+# As Oy Hämeen Linnan Portti
+
+Tervetuloa kotisivuille
