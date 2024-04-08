@@ -1,9 +1,3 @@
----
-layout: page
-title: "Tervetuloa!"
-permalink: /
----
-
 # As Oy Hämeen Linnan Portti
 
 Tervetuloa kotisivuille
