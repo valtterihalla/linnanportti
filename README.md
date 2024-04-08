@@ -2,4 +2,4 @@
 
 Tervetuloa kotisivuille
 
-![Töyryn talon pitkä julkisivu](./assets/julkisivu,jpg)
+![Töyryn talon pitkä julkisivu](./assets/julkisivu.jpg)
