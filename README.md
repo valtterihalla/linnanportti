@@ -1,5 +1,5 @@
-# As Oy Hämeen Linnan Portti
+# As Oy Hämeen Linnan Portti ¤
 
 Tervetuloa kotisivuille
 
-[Töyryn talon pitkä julkisivu](julkisivu,jpg)
+[Töyryn talon pitkä julkisivu](./assets/julkisivu,jpg)
