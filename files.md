@@ -1,5 +1,5 @@
 # Työtiedostoja hallituksen verkkolevyllä #
-
+- [Hallituksen Google-drive](https://drive.google.com/drive/u/1/folders/1EnzfuAj5IBD8yz2ZXMKzpvoj9RDUF6A2)
 
 ## Työn alla nyt ##
 - [Huhtikuun asukastiedote](https://docs.google.com/document/d/1st3C_IPIZ8ly-FSVPpbsDDLh9c4opWILcSF9uHIQf5w/edit)
