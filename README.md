@@ -5,6 +5,6 @@
 - Tiedotteet
 - Tietoja taloyhtiöstä
 - Talon historiaa
-- [Työtiedostoja](./files.md)
+- [Hallituksen työtiedostoja](./files.md)
   
 Yhteystiedot: [Reim Isännöinti](https://reim.fi)
